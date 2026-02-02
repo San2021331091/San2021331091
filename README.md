@@ -91,6 +91,7 @@ I build **scalable, high-performance mobile and web applications** with clean ar
 
 ---
 
+![Banner](image.png)
 
 
 
