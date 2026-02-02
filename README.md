@@ -86,7 +86,7 @@ I build **scalable, high-performance mobile and web applications** with clean ar
 ## 📫 Connect With Me
 
 * 🌐 Portfolio:[My portfolio](https://portfolio-qx6l.onrender.com/)
-* 💼 LinkedIn: [My LinkedIn Profile](https://bd.linkedin.com/in/santosh-saha-92b5b9309)*
+* 💼 LinkedIn:[My LinkedIn Profile](https://bd.linkedin.com/in/santosh-saha-92b5b9309)
 * 📧 Email: *santoshsaha2003@gmail.com*
 
 ---
