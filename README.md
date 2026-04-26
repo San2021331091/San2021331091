@@ -94,7 +94,7 @@ I build **scalable, high-performance mobile and web applications** with clean ar
 ![Banner](image.png)
 
 ## Achievements:
-1. [Introduction to flutter course] (https://certificates.simplicdn.net/share/10155188_10439823_1777201559249.pdf)
+1. Flutter Development Certificate: [Introduction to flutter course](https://certificates.simplicdn.net/share/10155188_10439823_1777201559249.pdf/)
 
 
 
