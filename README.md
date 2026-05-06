@@ -40,8 +40,9 @@ I build **scalable, high-performance mobile and web applications** with clean ar
 * **Flask (Python)**
 * **Fiber (Go)**
 * **SlimPHP**
-* **ASP.NET Core**
+* **Express.js**
 * **Supabase**
+*  **Firebase**
 * RESTful API Design
 
 ---
