@@ -96,6 +96,7 @@ I build **scalable, high-performance mobile and web applications** with clean ar
 
 ## Achievements:
 1. Flutter Development Certificate: [Introduction to flutter course](https://certificates.simplicdn.net/share/10155188_10439823_1777201559249.pdf/)
+2. Mern Stack Development Certificate: [https://drive.google.com/file/d/1WFJtTdjCAr0BfZHR3sQe9_Fc7zt9QbML/view?usp=sharing]
 
 
 
